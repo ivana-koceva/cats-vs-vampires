@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8a0c769239b124a748d4b3fdbd917411
+guid: b9ee5cc042d0cfa4280607eb670f284e
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: srceee_Frame_0
+  - name: Heart_Frame_0
     originalName: 
     pivot: {x: 0.53846157, y: -0.90909094}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 13
       height: 11
-    spriteID: 6594b1ef3dae64cf3b67c602fb08aca6
+    spriteID: a4324921ade6ef44fb518608565bc1f3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: srceee_Frame_1
+  - name: Heart_Frame_1
     originalName: 
     pivot: {x: 0.53846157, y: -0.90909094}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 23
       width: 13
       height: 11
-    spriteID: 0f7f82a7db5ea4c0b83673c4d9c7af2e
+    spriteID: 86a6322dbd67d0a4c99fe18bfed58caf
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -164,28 +164,28 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -1458181625
-    name: srceee
+    guid: 1260111146
+    name: Heart
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: srceee_Frame_0
+    - name: Heart_Frame_0
       frameIndex: 0
       cellRect:
         x: 9
         y: 10
         width: 13
         height: 11
-      spriteId: 6594b1ef3dae64cf3b67c602fb08aca6
-    - name: srceee_Frame_1
+      spriteId: a4324921ade6ef44fb518608565bc1f3
+    - name: Heart_Frame_1
       frameIndex: 1
       cellRect:
         x: 9
         y: 10
         width: 13
         height: 11
-      spriteId: 0f7f82a7db5ea4c0b83673c4d9c7af2e
+      spriteId: 86a6322dbd67d0a4c99fe18bfed58caf
     linkedCells: []
     parentIndex: -1
   platformSettings: []
