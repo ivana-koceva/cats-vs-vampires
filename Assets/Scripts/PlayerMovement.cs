@@ -43,12 +43,12 @@ public class PlayerMovement : MonoBehaviour
     {
         MovementState state;
 
-        if(dirX > 0f)
+        if(dirX > 0.01f)
         {
             state = MovementState.walking;
             sprite.flipX = false;
         }
-        else if (dirX < 0f)
+        else if (dirX < 0.01f)
         {
             state = MovementState.walking;
             sprite.flipX = true;
